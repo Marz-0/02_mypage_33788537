@@ -44,7 +44,7 @@ var html_pg1 =
  <p style="color: rgb(255, 255, 255)">I have experience with JavaScript, Python, HTML, and some css. I am also familiar with frameworks such as Node.js.</p>
  <h2>Education</h2>
 
- <p style="color: rgb(255, 255, 255)">Currently studying Computer Science at Goldsmiths University.</p>
+ <p style="color: rgb(255, 255, 255)">Currently studying Computer Science at Goldsmiths University. I am on the cyber security pathway in my third and final year of my bachelors degree.</p>
 </body>
 
 
