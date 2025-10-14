@@ -44,6 +44,9 @@ var html_pg1 =
  <h2>Education</h2>
 
  <p style="color: rgb(255, 255, 255)">Currently studying Computer Science at Goldsmiths University. I am on the cyber security pathway in my third and final year of my bachelors degree.</p>
+
+            <p>This is my personal website where I give some information about me.</p>
+            <p>:)</p>
 </body>
 
 </html>`;
