@@ -37,6 +37,12 @@ var html_pg1 =
 
 <body>
  <h1>Marzhan Anbia's Bio</h1>
+
+ <h2>What is this?</h2>
+
+ <p style="color: rgb(255, 255, 255)">This is my personal website where I give some information about me.</p>
+ 
+
  <h2>About Me</h2>
  <p style="color: rgb(255, 255, 255)">Hello! My name is Marzhan Anbia. I am a software developer and computer science student based in London, UK.</p>
  <h2>Skills</h2>
@@ -45,8 +51,14 @@ var html_pg1 =
 
  <p style="color: rgb(255, 255, 255)">Currently studying Computer Science at Goldsmiths University. I am on the cyber security pathway in my third and final year of my bachelors degree.</p>
 
-            <p>This is my personal website where I give some information about me.</p>
-            <p>:)</p>
+
+ <p></p>
+
+ <p style="color: rgb(255, 255, 255)">Info:</p>
+ <p style="color: rgb(255, 255, 255)">- To learn more about me, visit the <a href="/about" style="color: rgb(255, 255, 255)">About Me</a> page.</p>
+
+ <p style="color: rgb(255, 255, 255)">:)</p>
+
 </body>
 
 </html>`;
@@ -76,6 +88,7 @@ http.createServer(function(req, res) {
             <p>I am an aspiring cyber security novice and I am enthusiastic about ethical hacking.</p>
             <p>I have a keen interest in learning about network security and penetration testing.</p>
             <p>I am studying at Goldsmiths University and at the cyber security pathway on my third and final year.</p>
+            <p>I have experience with various programming languages and tools, including Python, JavaScript, and HTML.</p>
         </body>
         </html>`;
     } 
