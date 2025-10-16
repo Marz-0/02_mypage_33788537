@@ -54,8 +54,9 @@ var html_pg1 =
 
  <p></p>
 
- <p style="color: rgb(255, 255, 255)">Info:</p>
+ <h2>Info</h2>
  <p style="color: rgb(255, 255, 255)">- To learn more about me, visit the <a href="/about" style="color: rgb(255, 255, 255)">About Me</a> page.</p>
+ <p style="color: rgb(255, 255, 255)">- To contact me, visit the <a href="/contact" style="color: rgb(255, 255, 255)">Contact Me</a> page.</p>
 
  <p style="color: rgb(255, 255, 255)">:)</p>
 
